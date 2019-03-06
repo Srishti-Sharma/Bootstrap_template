@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding: 0;
+   
+}
+.jumbo-text{
+    color: rgba(228, 226, 226, 0.651);
+    
+}
+.content .container .row .col-8{
+    margin-left:2.5%;
+}
+.content .col-6 p{
+    font-size:15px;
+}
+body .jumbotron{
+    height:50vh;
+}
+.mid {
+    margin-left:6%;
+}
+/* 350 227 */
+.mid .card{
+    margin-left:4.5%;
+    justify-content: space-around;
+    background: rgb(182, 177, 177);
+    width:300px;
+    height:200px;
+}
+.maincontent .jumbotron {
+    background-image:url("../images/card1.png");
+}
+.container .card-deck{
+    margin:5%;
+}
+.card-deck{
+    width:85%;
+}
+.page-footer a{
+    color: black;
+}
+$enable-shadows: true;
